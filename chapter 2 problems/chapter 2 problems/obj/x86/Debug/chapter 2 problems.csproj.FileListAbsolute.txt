@@ -1,0 +1,5 @@
+C:\Users\eahscs\Documents\GitHub\chapter-2-problems\chapter 2 problems\chapter 2 problems\bin\Debug\chapter 2 problems.exe
+C:\Users\eahscs\Documents\GitHub\chapter-2-problems\chapter 2 problems\chapter 2 problems\bin\Debug\chapter 2 problems.pdb
+C:\Users\eahscs\Documents\GitHub\chapter-2-problems\chapter 2 problems\chapter 2 problems\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\eahscs\Documents\GitHub\chapter-2-problems\chapter 2 problems\chapter 2 problems\obj\x86\Debug\chapter 2 problems.exe
+C:\Users\eahscs\Documents\GitHub\chapter-2-problems\chapter 2 problems\chapter 2 problems\obj\x86\Debug\chapter 2 problems.pdb
